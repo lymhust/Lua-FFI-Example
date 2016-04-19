@@ -1,1 +1,1 @@
-# Lua-FFI-Example
+# Lua FFI example: using TH lib in Lua.
